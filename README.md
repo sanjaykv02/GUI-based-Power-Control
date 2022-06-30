@@ -85,13 +85,18 @@
 	      if [[ $exitstatus -eq 0 ]]
 	      then
           #Linking this power_gui.sh script with power.sh script 
-		      gnome-terminal -e "bash -c '/home/sanjaykv02/./power.sh; sleep 1'"
+		      gnome-terminal -e "bash -c '/path/to/script/./power.sh; sleep 1'"
 		      
 	      else
 		      echo "there was an error"
           
 	      fi
       fi
+      
+ 
+ To run the code type following command:--
+ 
+ 	/path/to/script/.power_gui.sh
  
  ## Reference Link
  
