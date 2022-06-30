@@ -4,6 +4,7 @@
 * [Table of contents](#table-of-contents) 
 * [Domenstration](#domenstration) 
 * [Code](#code) 
+* [Keyboard Shortcut](#keyboard-shortcut)
 * [Reference Link](#reference-link)
 
 ## Domenstration
@@ -21,6 +22,16 @@
 
 ### Command Page
 ![Command](https://github.com/sanjaykv02/GUI-based-Power-Control/blob/master/Command%20Page.png)
+
+### Keyboard Shortcut
+
+![shortcut 1](https://github.com/sanjaykv02/GUI-based-Power-Control/blob/master/open%20settings.png)
+
+![shortcut 2](https://github.com/sanjaykv02/GUI-based-Power-Control/blob/master/click%20on%20keyboard.png)
+
+![shortcut 3](https://github.com/sanjaykv02/GUI-based-Power-Control/blob/master/click%20on%20plus%20sign.png)
+
+![shortcut 4](https://github.com/sanjaykv02/GUI-based-Power-Control/blob/master/command%20section.png)
 
 ## Code
 
@@ -98,6 +109,19 @@
  
  	/path/to/script/.power_gui.sh
  
+ ## Keyboard Shortcut
+ 
+Go through the files listed above and copy paste the code give below
+
+	`gnome-terminal -e "bash -c '/path/to/script/./power_gui.sh'; sleep .3"`
+
+now set the shortkey of your choice
+
+	`gnome-terminal -e "bash -c '/path/to/script/./power.sh'; sleep .3"`
+
+set shortcut as `alt` `q`
+
+
  ## Reference Link
  
  >Check Linkedin [Here](https://www.linkedin.com/in/sanjay-varyani/) !    <br>
