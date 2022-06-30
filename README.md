@@ -124,7 +124,7 @@ set shortcut as `alt` `q`
 
  ## Reference Link
  
- >Check Linkedin [Here](https://www.linkedin.com/in/sanjay-varyani/) !    <br>
+ >Check Linkedin [Here](https://www.linkedin.com/posts/sanjay-varyani_bash-linux-whiptail-activity-6948268862568046592-ZJEL?utm_source=linkedin_share&utm_medium=member_desktop_web) !    <br>
  >Check Wikipedia [Here](https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Whiptail) !
 
 _**Thanks for reading  :)**_
